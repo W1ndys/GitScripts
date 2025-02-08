@@ -1,6 +1,6 @@
 # GitScripts
 
-存放常用的 Git 脚本，大部分借助 AI 生成
+存放常用的 Shell 脚本，大部分借助 AI 生成
 
 ## 目录
 
