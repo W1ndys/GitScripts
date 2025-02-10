@@ -6,3 +6,5 @@
 
 - [clean_git_history.sh](./clean_git_history.sh)
   - 清理 Git 历史记录，将仓库重置为初始状态
+- [reinit_repo.sh](./reinit_repo.sh)
+  - 重新初始化 Git 仓库
